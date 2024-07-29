@@ -1,3 +1,6 @@
 [submodule "partsEngine"]
 	path = partsEngine
 	url = https://github.com/uyras/partsEngine.git
+[submodule "argumentum"]
+	path = argumentum
+	url = https://github.com/mmahnic/argumentum.git
